@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Karthik Kodati 👋
 
-<!--
-**kodati-karthiq/kodati-karthiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Testing Professional** | Hyderabad, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌊 About Karthiq
+
+Building **[Karthiq](https://karthiq.com)** — the ocean of Software Testing.
+A free knowledge hub covering everything in QA —
+from fundamentals to advanced automation.
+
+## 🧪 What I work with
+
+- **Manual Testing** — Test cases, STLC, Bug life cycle
+- **Automation** — Selenium, Cypress, Playwright
+- **API Testing** — Postman, REST Assured
+- **Performance** — JMeter, Gatling
+- **Mobile Testing** — Appium
+- **CI/CD** — GitHub Actions, Jenkins
+
+## 📬 Connect
+reachme@karthiq.com
